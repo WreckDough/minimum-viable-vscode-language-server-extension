@@ -1,10 +1,10 @@
 {
-  "name": "REPLACE_ME",
-  "description": "REPLACE_ME",
-  "author": "REPLACE_ME",
-  "license": "MIT",
+  "name": "Flux Language Server",
+  "description": "Language server for Flux",
+  "author": "Gameflux",
+  "license": "-",
   "version": "0.0.1",
-  "publisher": "REPLACE_ME",
+  "publisher": "Gameflux",
   "repository": {
     "type": "git",
     "url": "REPLACE_ME"

@@ -1,16 +1,16 @@
 {
-  "name": "REPLACE_ME",
-  "description": "REPLACE_ME",
-  "author": "REPLACE_ME",
-  "license": "MIT",
+  "name": "Flux Language Server",
+  "description": "Language server for Flux",
+  "author": "Gameflux",
+  "license": "-",
   "version": "1.0.0",
-  "publisher": "REPLACE_ME",
+  "publisher": "Gameflux",
   "categories": [],
   "engines": {
     "vscode": "^1.75.0"
   },
   "activationEvents": [
-    "onLanguage"
+    "plaintext"
   ],
   "main": "./client/out/extension",
   "contributes": {
